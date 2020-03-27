@@ -27,7 +27,7 @@ RUN sed -i 's/SecRuleEngine DetectionOnly/SecRuleEngine on/' /etc/modsecurity/mo
 
 # Install PHP 7 Apache module
 RUN apt -y install libapache2-mod-php
-RUN echo '<?php phpinfo(); ?>' > /var/www/html/phpinfo.php
+RUN echo '<?php phpinfo(); ?>' > /var/www/html/hidden.php
 
 WORKDIR /
 

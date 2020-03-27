@@ -1,5 +1,9 @@
 # Apache x ModSecurity v3 x PHP7
 
+[![License](https://img.shields.io/github/license/nbeguier/apache-modsecurity3-php7?color=blue)](https://github.com/nbeguier/apache-modsecurity3-php7/blob/master/LICENSE)
+
+ModSecurity bypass training with OWASP rules (Apache2 x ModSecurity v3 x PHP 7)
+
 ## Usage
 
 ```
@@ -9,7 +13,7 @@ $ docker run -d --rm -v ${PWD}:/var/www/html/current -p 8081:80 --name modsec_la
 $ curl http://localhost:8081/index.html
 
 # Default phpinfo
-curl http://localhost:8081/phpinfo.php
+$ curl http://localhost:8081/hidden.php
 
 # Shared directory
 $ curl http://localhost:8081/current/
