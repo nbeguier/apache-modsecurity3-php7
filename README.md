@@ -1,6 +1,6 @@
 # Apache x ModSecurity v3 x PHP7
 
-[![License](https://img.shields.io/github/license/nbeguier/apache-modsecurity3-php7?color=blue)](https://github.com/nbeguier/apache-modsecurity3-php7/blob/master/LICENSE) [![docker-build](https://img.shields.io/docker/cloud/automated/nbeguier/apache-modsecurity3-php7)
+[![License](https://img.shields.io/github/license/nbeguier/apache-modsecurity3-php7?color=blue)](https://github.com/nbeguier/apache-modsecurity3-php7/blob/master/LICENSE) [![docker-build](https://img.shields.io/docker/cloud/automated/nbeguier/apache-modsecurity3-php7)](https://hub.docker.com/r/nbeguier/apache-modsecurity3-php7)
 
 ModSecurity bypass training with OWASP rules (Apache2 x ModSecurity v3 x PHP 7)
 
