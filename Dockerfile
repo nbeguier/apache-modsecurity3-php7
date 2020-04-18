@@ -1,3 +1,7 @@
+# Copyright 2020 Nicolas BEGUIER
+# Licensed under the Apache License, Version 2.0
+# Written by Nicolas BEGUIER (nicolas_beguier@hotmail.com)
+
 FROM debian:latest
 
 # update the base image
