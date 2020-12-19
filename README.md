@@ -40,3 +40,4 @@ Licensed under the [Apache License](https://github.com/nbeguier/apache-modsecuri
 # Copyright
 Copyright 2020 Nicolas BEGUIER; ([nbeguier](https://beguier.eu/nicolas/) - nicolas_beguier[at]hotmail[dot]com)
 
+
