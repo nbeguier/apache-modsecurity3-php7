@@ -38,6 +38,6 @@ $ curl -s 'http://localhost:8081/current/modsec/index.php' --data 'xss=<script>a
 Licensed under the [Apache License](https://github.com/nbeguier/apache-modsecurity3-php7/blob/master/LICENSE), Version 2.0 (the "License").
 
 # Copyright
-Copyright 2020 Nicolas BEGUIER; ([nbeguier](https://beguier.eu/nicolas/) - nicolas_beguier[at]hotmail[dot]com)
+Copyright 2020-2021 Nicolas BEGUIER; ([nbeguier](https://beguier.eu/nicolas/) - nicolas_beguier[at]hotmail[dot]com)
 
 
